@@ -26,7 +26,7 @@ Click the below button to watch the video tutorial on deploying
 ### Deploy To Heroku 📡</h4>
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/d43e9011bf46a359d872c.jpg)](https://heroku.com/deploy?template=https://github.com/TamilBots/TamilVcMusic.git)
+[![Deploy](https://telegra.ph/file/d43e9011bf46a359d872c.jpg)](https://heroku.com/deploy?template=https://github.com/smalviya123/TamilVcMusic.git)
 
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/smalviya123/TamilVCMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
